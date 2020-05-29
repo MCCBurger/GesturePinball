@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GesturePinball</string>
+    <string name="pinball_guessing_game">PINBALL GUESSING GAME</string>
+    <string name="directions">Directions</string>
+    <string name="may_27_2020">May 27, 2020</string>
+    <string name="stern_pinball">STERN PINBALL</string>
+    <string name="teenage_mutant_ninja_turtles">TEENAGE MUTANT NINJA TURTLES</string>
+</resources>
